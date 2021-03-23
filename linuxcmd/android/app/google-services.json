@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762158976962",
+    "firebase_url": "https://linuxdata-6be11.firebaseio.com",
+    "project_id": "linuxdata-6be11",
+    "storage_bucket": "linuxdata-6be11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762158976962:android:b395c6013039b04171905b",
+        "android_client_info": {
+          "package_name": "com.hstech.linuxcmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762158976962-k0keg3gei41b82ht7udu0v9ldlos0o5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypz9xGSWixyNOypW9rWsH1rRhnC6jnkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762158976962-k0keg3gei41b82ht7udu0v9ldlos0o5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
